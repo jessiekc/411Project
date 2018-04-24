@@ -1,0 +1,32 @@
+
+#box{
+    width: 380px;
+    margin: 30px auto;
+    font-size: 14px;
+    float: right;
+    /*opacity:0.8;*/
+
+}
+input.example{
+    width: 200px;
+    border: 1px solid #e2e2e2;
+    height: 30px;
+    float: right;
+    /*opacity:0.8;*/
+    background-image: url(assets/images/search.jpg);
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position:5px center;
+    padding:0 0 0 40px;
+}
+#search{
+    width: 78px;
+    height: 32px;
+    float: right;
+    background: black;
+    color: white;
+    /*opacity:0.8;*/
+    text-align: center;
+    line-height: 32px;
+    cursor: pointer;
+}

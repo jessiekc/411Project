@@ -1,0 +1,522 @@
+[
+	{
+		"name":"The Art Institute of Chicago",
+		"minutes":5,
+		"seconds":15,
+		"episodes":20525,
+		"family":"Chicago",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=16235"
+	},
+	{
+		"name":"St. Patrick's Cathedral",
+		"minutes":4.5,
+		"seconds":35,
+		"episodes":10988,
+		"family":"New York City",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=15303"
+	},
+	{
+		"name":"Eiffel Tower",
+		"minutes":4.5,
+		"seconds":41,
+		"episodes":118237,
+		"family":"Paris",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18656"
+	},
+	{
+		"name":"Burj Khalifa",
+		"minutes":4.5,
+		"seconds":11,
+		"episodes":59974,
+		"family":"Dubai",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18664"
+	},
+	{
+		"name":"The Dubai Mall",
+		"minutes":4.5,
+		"seconds":35,
+		"episodes":22857,
+		"family":"Dubai",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18666"
+	},
+	{
+		"name":"Burj Al Arab",
+		"minutes":4.5,
+		"seconds":14,
+		"episodes":10532,
+		"family":"Dubai",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18669"
+	},
+	{
+		"name":"Millennium Park",
+		"minutes":4.5,
+		"seconds":2,
+		"episodes":20304,
+		"family":"Chicago",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=9881"
+	},
+	{
+		"name":"Aquaventure Waterpark",
+		"minutes":4.5,
+		"seconds":16,
+		"episodes":12908,
+		"family":"Dubai",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18667"
+	},
+	{
+		"name":"Dubai Aquarium Underwater Zoo",
+		"minutes":4,
+		"seconds":42,
+		"episodes":11181,
+		"family":"Dubai",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18668"
+	},
+	{
+		"name":"Sacred Monkey Forest Sanctuary",
+		"minutes":4,
+		"seconds":11,
+		"episodes":26712,
+		"family":"Bali",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18689"
+	},
+	{
+		"name":"Broadway",
+		"minutes":4.5,
+		"seconds":18,
+		"episodes":10988,
+		"family":"New York City",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=1965"
+	},
+	{
+		"name":"Cloud Gate",
+		"minutes":4.5,
+		"seconds":25,
+		"episodes":14798,
+		"family":"Chicago",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=3325"
+	},
+	{
+		"name":"Musee d'Orsay",
+		"minutes":4.5,
+		"seconds":48,
+		"episodes":55591,
+		"family":"Paris",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18658"
+	},
+	{
+		"name":"Elafonissi Beach",
+		"minutes":4.5,
+		"seconds":0,
+		"episodes":9788,
+		"family":"Crete",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18692"
+	},
+	{
+		"name":"Dubai Desert Conservation Reserve",
+		"minutes":4.5,
+		"seconds":56,
+		"episodes":1792,
+		"family":"Dubai",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18671"
+	},
+	{
+		"name":"Torre de Belem",
+		"minutes":4,
+		"seconds":17,
+		"episodes":28308,
+		"family":"Lisbon",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18674"
+	},
+	{
+		"name":"The Magnificent Mile",
+		"minutes":4.5,
+		"seconds":22,
+		"episodes":13570,
+		"family":"Chicago",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=16484"
+	},
+	{
+		"name":"Skydeck Chicago - Willis Tower",
+		"minutes":4.5,
+		"seconds":39,
+		"episodes":14166,
+		"family":"Chicago",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=14877"
+	},
+	{
+		"name":"National Gallery",
+		"minutes":4.5,
+		"seconds":0,
+		"episodes":32415,
+		"family":"London",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=10912"
+	},
+	{
+		"name":"Pantheon",
+		"minutes":4.5,
+		"seconds":55,
+		"episodes":63154,
+		"family":"Rome",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=11976"
+	},
+	{
+		"name":"Arco Triunfal da Rua Augusta",
+		"minutes":4.5,
+		"seconds":45,
+		"episodes":5107,
+		"family":"Lisbon",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=803"
+	},
+	{
+		"name":"Ajuda National Palace",
+		"minutes":4.5,
+		"seconds":38,
+		"episodes":1036,
+		"family":"Lisbon",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18681"
+	},
+	{
+		"name":"British Museum",
+		"minutes":4.5,
+		"seconds":14,
+		"episodes":60232,
+		"family":"London",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=1954"
+	},
+	{
+		"name":"Igreja de Sao Roque",
+		"minutes":4.5,
+		"seconds":3,
+		"episodes":1714,
+		"family":"Lisbon",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18680"
+	},
+	{
+		"name":"Calouste Gulbenkian Museum - Founder's Collection",
+		"minutes":4.5,
+		"seconds":54,
+		"episodes":7309,
+		"family":"Lisbon",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18679"
+	},
+	{
+		"name":"V&A - Victoria and Albert Museum",
+		"minutes":4.5,
+		"seconds":45,
+		"episodes":26133,
+		"family":"London",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=17702"
+	},
+	{
+		"name":"Basilica of the Sagrada Familia",
+		"minutes":4.5,
+		"seconds":51,
+		"episodes":131979,
+		"family":"Barcelona",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18682"
+	},
+	{
+		"name":"Dolphin Bay",
+		"minutes":4.5,
+		"seconds":25,
+		"episodes":2233,
+		"family":"Dubai",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18670"
+	},
+	{
+		"name":"Churchill War Rooms",
+		"minutes":4.5,
+		"seconds":22,
+		"episodes":17863,
+		"family":"London",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=3198"
+	},
+	{
+		"name":"Roman Forum",
+		"minutes":4.5,
+		"seconds":53,
+		"episodes":18313,
+		"family":"Rome",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18662"
+	},
+	{
+		"name":"St. James's Park",
+		"minutes":4.5,
+		"seconds":38,
+		"episodes":15125,
+		"family":"London",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=15250"
+	},
+	{
+		"name":"National Tile Museum",
+		"minutes":4.5,
+		"seconds":38,
+		"episodes":3358,
+		"family":"Lisbon",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=10961"
+	},
+	{
+		"name":"Manhattan Skyline",
+		"minutes":5,
+		"seconds":20,
+		"episodes":17905,
+		"family":"New York City",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=9394"
+	},
+	{
+		"name":"The Metropolitan Museum of Art",
+		"minutes":5,
+		"seconds":43,
+		"episodes":47692,
+		"family":"New York City",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=16500"
+	},
+	{
+		"name":"Houses of Parliament",
+		"minutes":4.5,
+		"seconds":26,
+		"episodes":14215,
+		"family":"London",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=6771"
+	},
+	{
+		"name":"Mall of the Emirates",
+		"minutes":4.5,
+		"seconds":22,
+		"episodes":4050,
+		"family":"Dubai",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=9357"
+	},
+	{
+		"name":"Palais Garnier - Opera National de Paris",
+		"minutes":4.5,
+		"seconds":42,
+		"episodes":15845,
+		"family":"Paris",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18660"
+	},
+	{
+		"name":"Miradouro da Graca",
+		"minutes":4.5,
+		"seconds":12,
+		"episodes":2113,
+		"family":"Lisbon",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=9944"
+	},
+	{
+		"name":"Palau de la Musica Orfeo Catala",
+		"minutes":4.5,
+		"seconds":54,
+		"episodes":15444,
+		"family":"Barcelona",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18686"
+	},
+	{
+		"name":"Central Park",
+		"minutes":4.5,
+		"seconds":15,
+		"episodes":113159,
+		"family":"New York City",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=2519"
+	},
+	{
+		"name":"Palacio Chiado",
+		"minutes":4.5,
+		"seconds":8,
+		"episodes":1673,
+		"family":"Lisbon",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=11781"
+	},
+	{
+		"name":"Marina Beach",
+		"minutes":4.5,
+		"seconds":46,
+		"episodes":2195,
+		"family":"Dubai",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=9470"
+	},
+	{
+		"name":"Alfama",
+		"minutes":4.5,
+		"seconds":47,
+		"episodes":15340,
+		"family":"Lisbon",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18676"
+	},
+	{
+		"name":"Lisbon Oceanarium",
+		"minutes":4.5,
+		"seconds":35,
+		"episodes":31939,
+		"family":"Lisbon",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18673"
+	},
+	{
+		"name":"Casa Batllo",
+		"minutes":4.5,
+		"seconds":54,
+		"episodes":48061,
+		"family":"Barcelona",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18685"
+	},
+	{
+		"name":"Sainte-Chapelle",
+		"minutes":4.5,
+		"seconds":48,
+		"episodes":20970,
+		"family":"Paris",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18659"
+	},
+	{
+		"name":"Old Town Square",
+		"minutes":4.5,
+		"seconds":43,
+		"episodes":50440,
+		"family":"Prague",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18683"
+	},
+	{
+		"name":"St. Vitus Cathedral",
+		"minutes":4.5,
+		"seconds":41,
+		"episodes":18364,
+		"family":"Prague",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18684"
+	},
+	{
+		"name":"Jardin Majorelle",
+		"minutes":4.5,
+		"seconds":8,
+		"episodes":36549,
+		"family":"Marrakech",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18687"
+	},
+	{
+		"name":"Historic Areas of Istanbul",
+		"minutes":5,
+		"seconds":26,
+		"episodes":9621,
+		"family":"Istanbul",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18695"
+	},
+	{
+		"name":"Medina of Marrakesh",
+		"minutes":4.5,
+		"seconds":0,
+		"episodes":13947,
+		"family":"Marrakech",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18688"
+	},
+	{
+		"name":"Waterbom Bali ",
+		"minutes":4.5,
+		"seconds":50,
+		"episodes":11564,
+		"family":"Bali",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18690"
+	},
+	{
+		"name":"The National 9/11 Memorial & Museum",
+		"minutes":4.5,
+		"seconds":39,
+		"episodes":78271,
+		"family":"New York City",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=16517"
+	},
+	{
+		"name":"Jeronimos Monastery",
+		"minutes":4.5,
+		"seconds":7,
+		"episodes":31939,
+		"family":"Lisbon",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18672"
+	},
+	{
+		"name":"Colosseum",
+		"minutes":4.5,
+		"seconds":27,
+		"episodes":118701,
+		"family":"Rome",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18661"
+	},
+	{
+		"name":"Brooklyn Bridge",
+		"minutes":4.5,
+		"seconds":12,
+		"episodes":16536,
+		"family":"New York City",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=1985"
+	},
+	{
+		"name":"Praca do Comercio",
+		"minutes":4.5,
+		"seconds":15,
+		"episodes":11592,
+		"family":"Lisbon",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18677"
+	},
+	{
+		"name":"Tanah Lot Temple",
+		"minutes":4,
+		"seconds":58,
+		"episodes":9412,
+		"family":"Bali",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18691"
+	},
+	{
+		"name":"Bairro Alto",
+		"minutes":4.5,
+		"seconds":16,
+		"episodes":10584,
+		"family":"Lisbon",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18678"
+	},
+	{
+		"name":"Reptisland",
+		"minutes":5,
+		"seconds":3,
+		"episodes":198,
+		"family":"Crete",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18694"
+	},
+	{
+		"name":"Dubai Fountains",
+		"minutes":4.5,
+		"seconds":0,
+		"episodes":58634,
+		"family":"Dubai",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18665"
+	},
+	{
+		"name":"Notre Dame Cathedral",
+		"minutes":4.5,
+		"seconds":49,
+		"episodes":61174,
+		"family":"Paris",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18657"
+	},
+	{
+		"name":"Basilica di Santa Maria Maggiore",
+		"minutes":4.5,
+		"seconds":22,
+		"episodes":12218,
+		"family":"Rome",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18663"
+	},
+	{
+		"name":"Castelo de S. Jorge",
+		"minutes":4,
+		"seconds":15,
+		"episodes":22049,
+		"family":"Lisbon",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18675"
+	},
+	{
+		"name":"Greek National Football Museum",
+		"minutes":5,
+		"seconds":37,
+		"episodes":391,
+		"family":"Crete",
+		"url":"http://momenttrip.web.engr.illinois.edu/touristAttractionDetail.php?id=18693"
+	}
+]

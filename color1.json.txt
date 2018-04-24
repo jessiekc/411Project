@@ -1,0 +1,62 @@
+[
+  {
+    "family": "Crete",
+    "color":  "#111A29"
+  },
+  {
+    "family": "Mormont",
+    "color":  "#498D2A"
+  },
+  {
+    "family": "Bali",
+    "color":  "#D5AA80"
+  },
+  {
+    "family": "Martell",
+    "color":  "#B64D1E"
+  },
+  {
+    "family": "Chicago",
+    "color":  "#870C00"
+  },
+  {
+    "family": "Dubai",
+    "color":  "#C2C2C0"
+  },
+  {
+    "family": "Bardelona",
+    "color":  "#B8972A"
+  },
+  {
+    "family": "New York City",
+    "color":  "#111"
+  },
+  {
+    "family": "London",
+    "color":  "#ECAA00"
+  },
+  {
+    "family": "Marrakech",
+    "color":  "#AE432F"
+  },
+  {
+    "family": "Prague",
+    "color":  "#8B262A"
+  },
+  {
+    "family": "Istanbul",
+    "color":  "#7D7D7D"
+  },
+  {
+    "family": "Rome",
+    "color":  "#68C8D4"
+  },
+  {
+    "family": "Paris",
+    "color":  "#444"
+  },
+  {
+    "family": "Lisbon",
+    "color":  "#668E2C"
+  }
+]
